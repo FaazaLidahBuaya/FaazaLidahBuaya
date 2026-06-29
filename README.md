@@ -12,10 +12,10 @@
 ├────────────────────────────────────────────────────────────┤
 │ Developer   : Faza                                         │
 │ Role        : Indie Game Developer                         │
-│ Location    : Indonesia 🇮🇩                                │
+│ Location    : Indonesia 🇮🇩                                 │
 │ Engine      : Unity                                        │
 │ Language    : C#                                           │
-│ Difficulty  : Nightmare                                    │
+│ Difficulty  : it depends on you                            │
 │ Status      : 🟢 Developing...                             │
 └────────────────────────────────────────────────────────────┘
 ```
@@ -26,9 +26,9 @@
 ├────────────────────────────────────────────────────────────┤
 │ Project     : GAOLEH                                       │
 │ Genre       : Indonesian Psychological Horror              │
-│ Progress    : ███████░░░ 70%                               │
-│ Chapter     : Night 2                                      │
-│ Objective   : Escape the Curse                             │
+│ Progress    : ███████░░░ 30%                               │
+│ Chapter     : 1                                            │
+│ Objective   : Sell the house                               │
 │ Last Save   : Auto Save                                    │
 └────────────────────────────────────────────────────────────┘
 ```
@@ -42,7 +42,7 @@
 🌿 Git
 📦 GitHub
 🖥 VS Code
-🎵 FMOD
+🎵 Pixabay
 ```
 
 ## 🏆 Achievements
@@ -68,15 +68,14 @@
 
 [ IN PROGRESS ]
 
-◉ Environment Polish
-◉ Story Writing
+◉ Get feedback
+◉ Stabilize levels
 ◉ Optimization
 
 [ NEXT ]
 
 □ Night 3
-□ Save System
-□ Steam Demo
+□ Streamer playing my game:)
 ```
 
 ## 📊 Developer Stats
