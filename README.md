@@ -14,8 +14,8 @@ I'm a vocational high school student specializing in software engineering. I hav
 
 - 🎮 Currently diving deep into **Game Development** using **Unity**.
 - 💻 Building robust web applications with **PHP, CodeIgniter, and MySQL**.
-- ⚙️ Exploring hardware logic and mechanics (from building smart IoT systems with **ESP8266** to engineering complex logic builds in *Trailmakers*).
-- 🎓 Currently preparing for my college entrance exams (UTBK/SNBT).
+- ⚙️ Exploring hardware logic and mechanics.
+- 🎓 currently studying at a University.
 - 🕹️ When I'm not coding, I play CS2, Elden Ring, and Mobile Legends.
 
 ### 🛠️ Tech Stack & Tools
